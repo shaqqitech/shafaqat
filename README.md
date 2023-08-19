@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafaqat Amanat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.c083e37550eb4dbe629dcad0cdd52532?rik=gqU2iVVFGZHBRw&pid=ImgRaw&r=0](https://images-platform.99static.com/0uwg49IpvcXjPJpCq6wbDcNPTq4=/69x0:632x563/fit-in/500x500/projects-files/85/8576/857670/40d6ad18-5826-41f2-ba3d-395856372c1a.gif" />
+<img align="right" alt="Coding" width="300" src="https://images-platform.99static.com/0uwg49IpvcXjPJpCq6wbDcNPTq4=/69x0:632x563/fit-in/500x500/projects-files/85/8576/857670/40d6ad18-5826-41f2-ba3d-395856372c1a.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaqqitech&label=Profile%20views&color=0e75b6&style=flat" alt="shaqqitech" /> </p>
 
