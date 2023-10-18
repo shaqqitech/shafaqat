@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaqqitech" target="blank"><img src="https://img.shields.io/twitter/follow/shaqqitech?logo=twitter&style=for-the-badge" alt="shaqqitech" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Next JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [github.com/shaqqitech](github.com/shaqqitech)
 
